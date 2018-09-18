@@ -1,0 +1,102 @@
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Foodies.dll.config
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Foodies.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Foodies.pdb
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Antlr3.Runtime.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\EntityFramework.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\EntityFramework.SqlServer.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Newtonsoft.Json.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Owin.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\System.Web.Optimization.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\System.Web.Providers.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\WebGrease.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\System.Web.Optimization.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Antlr3.Runtime.pdb
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Newtonsoft.Json.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\EntityFramework.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\EntityFramework.SqlServer.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\obj\Debug\Foodies.dll
+c:\users\ebrahim azhar\documents\visual studio 2013\Projects\Foodies\Foodies\obj\Debug\Foodies.pdb
+C:\Users\Ebrahim Azhar\documents\visual studio 2013\Projects\Foodies\Foodies\obj\Debug\Foodies.csprojResolveAssemblyReference.cache
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Foodies.dll.config
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Foodies.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Foodies.pdb
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Antlr3.Runtime.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\AspNet.ScriptManager.bootstrap.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\AspNet.ScriptManager.jQuery.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\EntityFramework.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\EntityFramework.SqlServer.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Core.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Cookies.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Facebook.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Google.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.OAuth.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Twitter.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.ScriptManager.WebForms.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Web.Infrastructure.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Newtonsoft.Json.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Owin.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\System.Web.Optimization.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\System.Web.Providers.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\WebGrease.dll
+G:\sir zeeshan ASP\Foodies\Foodies\bin\System.Web.Optimization.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Antlr3.Runtime.pdb
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Newtonsoft.Json.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\EntityFramework.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\EntityFramework.SqlServer.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Core.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Facebook.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Cookies.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Google.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.Twitter.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\sir zeeshan ASP\Foodies\Foodies\bin\Microsoft.Owin.Security.OAuth.xml
+G:\sir zeeshan ASP\Foodies\Foodies\obj\Debug\Foodies.csprojResolveAssemblyReference.cache
+G:\sir zeeshan ASP\Foodies\Foodies\obj\Debug\Foodies.dll
+G:\sir zeeshan ASP\Foodies\Foodies\obj\Debug\Foodies.pdb
